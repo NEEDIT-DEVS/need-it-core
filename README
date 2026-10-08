@@ -2,7 +2,7 @@
 
 Plataforma web SaaS de economía circular orientada al **alquiler de proximidad** (tipo Wallapop pero estrictamente de alquiler, no de compraventa). Permite a los usuarios rentabilizar herramientas de bricolaje, maquinaria doméstica, kits de manualidades y costura guardados en casa.
 
-## 📌 Identidad de Marca y Modelo
+## Identidad de Marca y Modelo
 * **Eslogan oficial:** "Need it. Rent it." / "Lo necesitas, lo alquilas."
 * **Paleta corporativa:** 
   * Deep Teal (`#0F6B6D`)
@@ -13,13 +13,13 @@ Plataforma web SaaS de economía circular orientada al **alquiler de proximidad*
 * **Vías de ingresos:** Comisiones por transacción/alquiler (Take Rate) y cuotas de suscripción SaaS para profesionales y talleres locales.
 * **Sostenibilidad:** Alineado estrictamente con el **ODS 12** (Consumo responsable y economía circular) y el **ODS 8** (Empleo y desconexión digital).
 
-## 👥 Equipo de Desarrollo (Full Stack)
+## Equipo de Desarrollo (Full Stack)
 Proyecto intermodular desarrollado por un equipo rotativo de 3 desarrolladores Full Stack:
 * **Francella Rojas**
 * **Iván Marín**
 * **Nahiomy Caram**
 
-## 🛠️ Arquitectura y Estructura del Repositorio
+## Arquitectura y Estructura del Repositorio
 * `backend/` -> Servidor Node.js con Express y base de datos relacional PostgreSQL.
 * `frontend/` -> Aplicación de interfaz construida en Angular.
 * `docs/` -> Memoria técnica, análisis PESTEL, DAFO/CAME, Objetivos SMART y Business Model Canvas.
