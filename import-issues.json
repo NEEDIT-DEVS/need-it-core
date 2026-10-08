@@ -1,0 +1,135 @@
+[
+  {
+    "title": "[NEED-BURO-01] Redacción del Plan de Empresa y Misión/Visión",
+    "body": "Redactar la misión, visión, valores y estructura corporativa de Nexora / NeedIt.\n\n**Estimación:** 8h (Size: M)",
+    "labels": ["burocracy"],
+    "assignees": ["Franchutech"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-BURO-02] Análisis DAFO y CAME",
+    "body": "Confeccionar la matriz DAFO cruzada con el CAME frente a competidores de economía circular.\n\n**Estimación:** 4h (Size: S)",
+    "labels": ["burocracy"],
+    "assignees": ["Fongus172"],
+    "priority": "Medium"
+  },
+  {
+    "title": "[NEED-BURO-03] Obligaciones Fiscales, Laborales y PRL",
+    "body": "Documentar obligaciones fiscales (IVA, IRPF), régimen laboral y Plan de Prevención.\n\n**Estimación:** 6h (Size: M)",
+    "labels": ["burocracy"],
+    "assignees": ["Nahiomy06"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-BURO-04] Estudio de Ayudas y Subvenciones (SODERCAN)",
+    "body": "Identificar líneas de subvención de la Consejería de Industria de Cantabria.\n\n**Estimación:** 4h (Size: S)",
+    "labels": ["burocracy"],
+    "assignees": ["Franchutech"],
+    "priority": "Medium"
+  },
+  {
+    "title": "[NEED-BURO-05] Modelo de Negocio Canvas Completo",
+    "body": "Desarrollar los 9 bloques del lienzo Canvas para el SaaS NeedIt.\n\n**Estimación:** 6h (Size: M)",
+    "labels": ["burocracy"],
+    "assignees": ["Fongus172"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-BACK-01] Inicialización del Monorepo y Ramas",
+    "body": "Crear carpetas backend, frontend, docs en develop y blindar main.\n\n**Estimación:** 2h (Size: S)",
+    "labels": ["backend"],
+    "assignees": ["Nahiomy06"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-BACK-02] Configuración del Entorno Node.js + Express + TypeScript",
+    "body": "Inicializar proyecto backend con TypeScript, tsconfig.json y app.ts.\n\n**Estimación:** 4h (Size: S)",
+    "labels": ["backend"],
+    "assignees": ["Franchutech"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-BACK-03] Configuración de Sequelize ORM y PostgreSQL",
+    "body": "Establecer conexión segura con ORM Sequelize contra PostgreSQL usando .env.\n\n**Estimación:** 6h (Size: M)",
+    "labels": ["backend"],
+    "assignees": ["Fongus172"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-BACK-04] Modelado ER Preliminar en Base de Datos",
+    "body": "Escribir scripts SQL iniciales para usuarios, ligas/equipos y transacciones.\n\n**Estimación:** 8h (Size: M)",
+    "labels": ["backend"],
+    "assignees": ["Nahiomy06"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-BACK-05] Estructura Modular y Variables de Entorno",
+    "body": "Organizar carpetas controllers, models, routes, services y middleware.\n\n**Estimación:** 3h (Size: S)",
+    "labels": ["backend"],
+    "assignees": ["Franchutech"],
+    "priority": "Medium"
+  },
+  {
+    "title": "[NEED-FRONT-01] Inicialización del Proyecto Angular",
+    "body": "Crear estructura base del cliente web con Angular y TypeScript.\n\n**Estimación:** 3h (Size: S)",
+    "labels": ["frontend"],
+    "assignees": ["Fongus172"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-FRONT-02] Configuración de Tailwind CSS y Estilos",
+    "body": "Integrar Tailwind CSS y configurar paleta corporativa y tipografía.\n\n**Estimación:** 4h (Size: S)",
+    "labels": ["frontend"],
+    "assignees": ["Nahiomy06"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-FRONT-03] Componentes Visuales Reutilizables Base",
+    "body": "Diseñar componentes atómicos iniciales (botones, tarjetas, contenedores).\n\n**Estimación:** 6h (Size: M)",
+    "labels": ["frontend"],
+    "assignees": ["Franchutech"],
+    "priority": "Medium"
+  },
+  {
+    "title": "[NEED-FRONT-04] Maquetación de la Landing Page",
+    "body": "Desarrollar vista principal de bienvenida adaptada a dispositivos móviles.\n\n**Estimación:** 8h (Size: M)",
+    "labels": ["frontend"],
+    "assignees": ["Fongus172"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-FRONT-05] Implementación del Modal de Cookies",
+    "body": "Crear componente modal para aceptación obligatoria de cookies.\n\n**Estimación:** 3h (Size: S)",
+    "labels": ["frontend"],
+    "assignees": ["Nahiomy06"],
+    "priority": "Low"
+  },
+  {
+    "title": "[NEED-DOCS-01] Configuración de Typst y Guía de Estilo",
+    "body": "Configurar entorno Typst aplicando Guía de Estilo de Decroly (Calibri 10).\n\n**Estimación:** 3h (Size: S)",
+    "labels": ["documentation"],
+    "assignees": ["Franchutech"],
+    "priority": "High"
+  },
+  {
+    "title": "[NEED-DOCS-02] Estructura Base de la Memoria",
+    "body": "Redactar portada, índice paginado y de tablas/figuras según APA 7ª ed.\n\n**Estimación:** 3h (Size: S)",
+    "labels": ["documentation"],
+    "assignees": ["Fongus172"],
+    "priority": "Medium"
+  },
+  {
+    "title": "[NEED-DOCS-03] Redacción de Introducción y Alcance",
+    "body": "Describir contexto, alcance funcional del marketplace y limitaciones.\n\n**Estimación:** 5h (Size: M)",
+    "labels": ["documentation"],
+    "assignees": ["Nahiomy06"],
+    "priority": "Medium"
+  },
+  {
+    "title": "[NEED-DOCS-04] Sincronización del Kanban y GitHub Projects",
+    "body": "Vincular issues creados al tablero Kanban automatizado.\n\n**Estimación:** 2h (Size: S)",
+    "labels": ["documentation"],
+    "assignees": ["Franchutech"],
+    "priority": "High"
+  }
+]
